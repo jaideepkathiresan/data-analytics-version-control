@@ -1,7 +1,7 @@
 """
 Data Cleaning Pipeline
 ==================================
-Professional-grade data preprocessing and validation framework
+Data preprocessing and validation framework
 supporting multiple file formats with comprehensive error handling,
 logging, and data quality reporting.
 
